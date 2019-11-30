@@ -1,10 +1,10 @@
 {
-  "name": "videogular2",
+  "name": "ws-videogular2",
   "version": "0.0.0-semantically-released",
   "description": "Videogular is a video application framework for desktop and mobile powered by Angular",
   "repository": {
     "type": "git",
-    "url": "https://github.com/videogular/videogular2"
+    "url": "https://github.com/wstidolph/videogular2"
   },
   "peerDependencies": {
     "@angular/core": "^8.0.0",
@@ -98,7 +98,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/videogular/videogular2/issues"
+    "url": "https://github.com/wstidolph/videogular2/issues"
   },
   "config": {
     "commitizen": {
