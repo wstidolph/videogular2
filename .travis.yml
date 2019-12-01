@@ -29,6 +29,3 @@ branches:
   only:
     - master
     - /^greenkeeper/.*$/
-env:
-  global:
-  secure: U1tspoMCrnOoCtT/bRgcTaxhv48a+vDpXywzPFZOMtl66VI41bKyh+bNHr6dGT4y7ISujc2ZuXHdu3KRr+DpCPAqprvCcozFl0C9NlJvwzmlZ/QDTmzVc3gzD+It8S+8ZRz3sUUiL2THnxVM+5dVM9iMa8bkDRQS77v/HpSYkesUX1FuQF2zNhabmRjUyBzavtpbya4OEJQtk3DIB/D8UvbqFXkBzzAoFLWh7SZXpMog1e2LdA5ksEeOw0j5S/fu7vp8RwlS+qckNC5wQNXdeWjMXBvZiCnmIq3m/FKMy2owbK4k4YoLiUeU3cVGt2za2VMASVgMDVOBbczgTBFeVTTp9pcJ4vmgjLM2XS+OvzyCxrMG69O/6hu+HMxoUa7hXo9pWgFZxH/5AB9Oht/WoFxK3oqfIsfYT4acyxuxDjZeyVjWD6g8q8gx/7t/2E4MERBs1F5s7zdzcT1sc83cDQYVbvfS+FWLequu1FrKkGfp/SiBIUr3RkhIsWRCxJzpR3ck0o3sBdw8GwscLs0WCYaZ4J10GRjbcWPhMfTEdBvoXKZiRqtpDxS0/KRfkwkJusJoZC8h01sf4Ott4z7tV8FHvhH92p0W/oEkZlVa+h46I/rK/dblApS0+F0PdmWTFf4EeeWXbsWG8R3OpGgtAleMn0JbtWOSe3c0GakOSZw=
