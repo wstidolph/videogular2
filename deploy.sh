@@ -15,13 +15,13 @@ cd docs
 mv _book dist/docs
 cd dist
 
-git init
-git config user.name "Raul Jimenez"
-git config user.email "elecash@gmail.com"
+# git init
+# git config user.name "Raul Jimenez"
+# git config user.email "elecash@gmail.com"
 
-git remote add upstream "https://$GH_TOKEN@github.com/videogular/videogular2.git"
-git fetch upstream
-git reset upstream/gh-pages
+# git remote add upstream "https://$GH_TOKEN@github.com/videogular/videogular2.git"
+# git fetch upstream
+# git reset upstream/gh-pages
 
 # echo "your-custom-domain.com" > CNAME
 
@@ -29,4 +29,4 @@ touch .
 
 git add -A .
 git commit -m "ci(GH-Pages): Rebuild pages at ${rev}"
-git push -q upstream HEAD:gh-pages
+# git push -q upstream HEAD:gh-pages
