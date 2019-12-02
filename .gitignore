@@ -12,7 +12,7 @@ npm-debug.log
 coverage
 compiled
 docs/_book
-package-lock.json
+# package-lock.json
 
 !karma.conf.js
 !karma-test-shim.js
