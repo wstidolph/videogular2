@@ -24,7 +24,7 @@ describe('Cue points', () => {
         expect(cuePoints.onLoad$).toBeDefined();
     });
 
-    xit('Should handle enter/exit events', () => {
+    it('Should handle enter/exit events', () => {
 
         let event = {
             target: document.createElement('video')
