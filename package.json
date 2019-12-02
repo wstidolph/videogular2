@@ -43,13 +43,13 @@
     "remap-istanbul": "0.9.5",
     "rimraf": "2.6.1",
     "rxjs": "6.5.2",
-    "semantic-release": "6.3.2",
+    "semantic-release": "^15.13.31",
     "systemjs": "^0.20.19",
     "tslint": "5.17.0",
     "typescript": "~3.4.5",
     "validate-commit-msg": "2.12.1",
     "watch": "1.0.2",
-    "zone.js": "0.9.1"
+    "zone.js": "^0.10.2"
   },
   "scripts": {
     "prebuild": "npm run clean",
